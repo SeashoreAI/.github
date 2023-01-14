@@ -13,6 +13,11 @@ Such examples are Finance,Healt,Environmental Sciences
 ### Prediction of the Forex Market
 The first project that we are currently working on has to do with Foreing Exchanges                  
 We want to create an AI that can make accurate multi-factor forex prediction                        
-Using multiple inputs (geopolitical,long-term and short term economical factors)      
+Using multiple inputs such as:
+1. Geopolitical economical factors       
+2. Long-term economical factors     
+3. Short term economical factors      
+4. Stock Market
+5. Price of Gold
 This have been categorised as impossible but with your help we could maybe    
 Try to create the next "money-making" machine
