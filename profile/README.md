@@ -10,6 +10,6 @@ We strongly believe that AI and ML do not have any usage if used alone
 Thats why we want to focus on the usage of AI in combination with other sciences
 ## Our Projects   
 ### Prediction of the Forex Market
-The first project that we are currently working on has to do with Foreing Exchanges
+The first project that we are currently working on has to do with Foreing Exchanges   
 We want to create an AI that can make accurate multi-factor forex prediction
 Using multiple inputs (geopolitical,long-term and short term economical factors)
