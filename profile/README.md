@@ -12,4 +12,4 @@ Thats why we want to focus on the usage of AI in combination with other sciences
 ### Prediction of the Forex Market
 The first project that we are currently working on has to do with Foreing Exchanges
 We want to create an AI that can make accurate multi-factor forex prediction
-Using muktiple inputs (geopolitical,long-term and short term economical factors)
+Using multiple inputs (geopolitical,long-term and short term economical factors)
